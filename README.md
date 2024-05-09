@@ -19,6 +19,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [Lists](#lists)
 
 ## GDC Talks
+- [2024] [Developing 'Terra Nil': A Strategy Game About Nature, Not Expansion](https://www.youtube.com/watch?v=s30pjYV8aBM): Sam Alfred (Free Lives)
 - [2016] [Overwatch - The Elusive Goal: Play by Sound](https://www.youtube.com/watch?v=zF_jcrTCMsA): Scott Lawlor, Tomas Neumann (Blizzard)
 - [2015] [How to Make Your Game Just Completely Hilarious: The Stanley Parable](http://www.gdcvault.com/play/1022057/): William Pugh (Roberts & Co Bunsen Outlet Limited)
 - [2015] [Classic Game Postmortem: Loom](http://gdcvault.com/play/1021862/): Brian Moriarty (WPI)
